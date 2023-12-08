@@ -1,2 +1,2 @@
-pip install -U Flask
+pip install Flask
 pip install pytesseract
